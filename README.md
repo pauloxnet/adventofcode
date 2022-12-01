@@ -1,2 +1,3 @@
-# adventofcode
-Advent of Code puzzles
+# Advent of Code
+
+Advent of Code puzzles repository.

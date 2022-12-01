@@ -1,3 +1,5 @@
+# START https://github.com/github/gitignore/blob/master/Python.gitignore
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -127,3 +129,18 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# END https://github.com/github/gitignore/blob/master/Python.gitignore
+
+# START local
+
+# VSCod[e|ium]
+.vscode
+
+# Ruff
+.ruff_cache
+
+# Input files
+input*
+
+# END local
