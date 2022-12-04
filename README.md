@@ -24,7 +24,7 @@ Example:
 | -------- | -------------------------------------------------------------- | --------------------------------------- | -------- |
 | 1        | [Calorie Counting](https://adventofcode.com/2022/day/1)        | [`aoc2022/day01.py`](/aoc2022/day01.py) | ⭐⭐     |
 | 2        | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)     | `aoc2022/day02.py`                      | ⭐⭐     |
-| 3        | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | `aoc2022/day03.py`                      | ⭐⭐     |
+| 3        | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [`aoc2022/day03.py`](/aoc2022/day03.py) | ⭐⭐     |
 | 4        | [Camp Cleanup](https://adventofcode.com/2022/day/4)            | [`aoc2022/day04.py`](/aoc2022/day04.py) | ⭐⭐     |
 | **4/25** | -                                                              | [`aoc2022/`](/aoc2022/)                 | **8/50** |
 
