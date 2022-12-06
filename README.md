@@ -27,7 +27,8 @@ Example:
 | 3        | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [`aoc2022/day03.py`](/aoc2022/day03.py) | ⭐⭐      |
 | 4        | [Camp Cleanup](https://adventofcode.com/2022/day/4)            | [`aoc2022/day04.py`](/aoc2022/day04.py) | ⭐⭐      |
 | 5        | [Supply Stacks](https://adventofcode.com/2022/day/5)           | `aoc2022/day05.py`                      | ⭐⭐      |
-| **5/25** | -                                                              | [`aoc2022/`](/aoc2022/)                 | **10/50** |
+| 6        | [Tuning Trouble](https://adventofcode.com/2022/day/6)          | [`aoc2022/day06.py`](/aoc2022/day06.py) | ⭐⭐      |
+| **6/25** | -                                                              | [`aoc2022/`](/aoc2022/)                 | **12/50** |
 
 ## ⚖️ License
 
