@@ -1,5 +1,9 @@
 # 🌠 Advent of Code
 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
+![Coverage](https://img.shields.io/badge/coverage-100%25-success)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/000129461?domain=https%3A%2F%2Ffosstodon.org)](https://fosstodon.org/@paulox)
+
 Pure Python solutions for the [Advent of Code](https://adventofcode.com/) puzzles written by [Paolo Melchiorre](https://github.com/pauloxnet/).
 
 ## 🧩 Requirements
@@ -12,8 +16,8 @@ Tests are included in function docstrings and can be run using the [doctest](htt
 
 Example:
 
-```python
->>> python3 -m doctest --verbose aoc2022/day01.py
+```shell
+$ python3 -m doctest --verbose aoc2022/day01.py
 ```
 
 ## ✨ Solutions
