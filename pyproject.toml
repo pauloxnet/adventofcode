@@ -1,9 +1,5 @@
 [tool.black]
-target-version = ["py311"]
-
-[tool.mypy]
-ignore_missing_imports = true
-python_version = "3.11"
+target-version = ["py312"]
 
 [tool.ruff]
 exclude = [
@@ -30,4 +26,11 @@ extend-ignore = [
     "D417",
 ]
 select = ["A", "B", "C", "D", "E", "F", "I", "W", "B9"]
-target-version = "py311"
+target-version = "py312"
+
+[tool.ruff.mccabe]
+max-complexity = 11
+
+[tool.mypy]
+ignore_missing_imports = true
+python_version = "3.12"

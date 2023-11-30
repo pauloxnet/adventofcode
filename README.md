@@ -1,6 +1,6 @@
 # 🌠 Advent of Code
 
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/python/black)
+[![Code style: ruff](https://img.shields.io/badge/code%20style-ruff-000000.svg)](https://github.com/astral-sh/ruff)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-success)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/000129461?domain=https%3A%2F%2Ffosstodon.org)](https://fosstodon.org/@paulox)
 
@@ -21,6 +21,12 @@ $ python3 -m doctest --verbose aoc2022/day01.py
 ```
 
 ## ✨ Solutions
+
+### 🗓️ [2023](https://adventofcode.com/2023)
+
+| Days     | Puzzles | Solutions  | Parts    |
+| -------- | ------- | ---------- | -------- |
+| **0/25** | -       | `aoc2023/` | **0/50** |
 
 ### 🗓️ [2022](https://adventofcode.com/2022)
 
