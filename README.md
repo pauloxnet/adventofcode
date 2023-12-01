@@ -17,16 +17,16 @@ Tests are included in function docstrings and can be run using the [doctest](htt
 Example:
 
 ```shell
-$ python3 -m doctest --verbose aoc2022/day01.py
+$ python3 -m doctest --verbose aoc2023/day01.py
 ```
 
 ## ✨ Solutions
 
 ### 🗓️ [2023](https://adventofcode.com/2023)
 
-| Days     | Puzzles | Solutions  | Parts    |
-| -------- | ------- | ---------- | -------- |
-| **0/25** | -       | `aoc2023/` | **0/50** |
+| Days     | Puzzles | Solutions               | Parts    |
+| -------- | ------- | ----------------------- | -------- |
+| **0/25** | -       | [`aoc2023/`](/aoc2023/) | **0/50** |
 
 ### 🗓️ [2022](https://adventofcode.com/2022)
 

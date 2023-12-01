@@ -13,7 +13,7 @@ repos:
       - id: detect-private-key
       - id: end-of-file-fixer
       - id: file-contents-sorter
-        files: ^(requirements.in)$
+        files: ^(requirements.txt)$
         args: ["--ignore-case", "--unique"]
       - id: fix-byte-order-marker
       - id: fix-encoding-pragma
