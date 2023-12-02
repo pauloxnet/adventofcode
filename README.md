@@ -24,10 +24,11 @@ $ python3 -m doctest --verbose aoc2023/day01.py
 
 ### 🗓️ [2023](https://adventofcode.com/2023)
 
-| Days     | Puzzles                                            | Solutions                               | Parts    |
-| -------- | -------------------------------------------------- | --------------------------------------- | -------- |
-| 1        | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [`aoc2023/day01.py`](/aoc2023/day01.py) | ⭐⭐     |
-| **1/25** | -                                                  | [`aoc2023/`](/aoc2023/)                 | **2/50** |
+| Days     | Puzzles                                               | Solutions                               | Parts    |
+| -------- | ----------------------------------------------------- | --------------------------------------- | -------- |
+| 1        | [Trebuchet?!](https://adventofcode.com/2023/day/1)    | [`aoc2023/day01.py`](/aoc2023/day01.py) | ⭐⭐     |
+| 2        | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [`aoc2023/day02.py`](/aoc2023/day02.py) | ⭐⭐     |
+| **2/25** | -                                                     | [`aoc2023/`](/aoc2023/)                 | **4/50** |
 
 ### 🗓️ [2022](https://adventofcode.com/2022)
 
