@@ -28,7 +28,9 @@ $ python3 -m doctest --verbose aoc2023/day01.py
 | -------- | ----------------------------------------------------- | --------------------------------------- | -------- |
 | 1        | [Trebuchet?!](https://adventofcode.com/2023/day/1)    | [`aoc2023/day01.py`](/aoc2023/day01.py) | ⭐⭐     |
 | 2        | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [`aoc2023/day02.py`](/aoc2023/day02.py) | ⭐⭐     |
-| **2/25** | -                                                     | [`aoc2023/`](/aoc2023/)                 | **4/50** |
+| 3        | [Gear Ratios](https://adventofcode.com/2023/day/3)    | `aoc2023/day03.py`                      |          |
+| 4        | [Scratchcards](https://adventofcode.com/2023/day/4)   | [`aoc2023/day04.py`](/aoc2023/day04.py) | ⭐⭐     |
+| **3/25** | -                                                     | [`aoc2023/`](/aoc2023/)                 | **6/50** |
 
 ### 🗓️ [2022](https://adventofcode.com/2022)
 
