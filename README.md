@@ -27,7 +27,8 @@ $ python3 -m doctest --verbose aoc2024/day01.py
 | Days     | Puzzles                                                                | Solutions                               | Parts    |
 | -------- | ---------------------------------------------------------------------- | --------------------------------------- | -------- |
 | 1        | [Historian Hysteria](https://adventofcode.com/2024/day/1)              | [`aoc2024/day01.py`](/aoc2024/day01.py) | ⭐⭐     |
-| **1/25** | -                                                                      | [`aoc2024/`](/aoc2024/)                 | **2/50** |
+| 2        | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)               | [`aoc2024/day02.py`](/aoc2024/day02.py) | ⭐⭐     |
+| **2/25** | -                                                                      | [`aoc2024/`](/aoc2024/)                 | **4/50** |
 
 ### 🗓️ [2023](https://adventofcode.com/2023)
 
