@@ -24,11 +24,12 @@ $ python3 -m doctest --verbose aoc2024/day01.py
 
 ### 🗓️ [2024](https://adventofcode.com/2024)
 
-| Days     | Puzzles                                                                | Solutions                               | Parts    |
-| -------- | ---------------------------------------------------------------------- | --------------------------------------- | -------- |
-| 1        | [Historian Hysteria](https://adventofcode.com/2024/day/1)              | [`aoc2024/day01.py`](/aoc2024/day01.py) | ⭐⭐     |
-| 2        | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)               | [`aoc2024/day02.py`](/aoc2024/day02.py) | ⭐⭐     |
-| **2/25** | -                                                                      | [`aoc2024/`](/aoc2024/)                 | **4/50** |
+| Days     | Puzzles                                                   | Solutions                               | Parts    |
+| -------- | --------------------------------------------------------- | --------------------------------------- | -------- |
+| 1        | [Historian Hysteria](https://adventofcode.com/2024/day/1) | [`aoc2024/day01.py`](/aoc2024/day01.py) | ⭐⭐     |
+| 2        | [Red-Nosed Reports](https://adventofcode.com/2024/day/2)  | [`aoc2024/day02.py`](/aoc2024/day02.py) | ⭐⭐     |
+| 3        | [Mull It Over](https://adventofcode.com/2024/day/3)       | [`aoc2024/day03.py`](/aoc2024/day03.py) | ⭐⭐     |
+| **3/25** | -                                                         | [`aoc2024/`](/aoc2024/)                 | **6/50** |
 
 ### 🗓️ [2023](https://adventofcode.com/2023)
 
