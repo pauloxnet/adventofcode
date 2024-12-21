@@ -6,6 +6,9 @@ import math
 import pathlib
 import re
 
+RE1 = re.compile(r"mul\((\d+),(\d+)\)")
+RE2 = re.compile(r"do\(\)(.*?)(?=don't\(\)|$)", re.DOTALL)
+
 
 def part1(text: str) -> int:
     """Part One.
@@ -14,7 +17,7 @@ def part1(text: str) -> int:
     >>> part1(tx)
     161
     """
-    return sum(math.prod(map(int, m)) for m in re.findall(r"mul\((\d+),(\d+)\)", text))
+    return sum(math.prod(map(int, m)) for m in RE1.findall(text))
 
 
 def part2(text: str) -> int:
@@ -24,10 +27,7 @@ def part2(text: str) -> int:
     >>> part2(tx)
     48
     """
-    return sum(
-        sum(math.prod(map(int, m)) for m in re.findall(r"mul\((\d+),(\d+)\)", s))
-        for s in re.findall(r"do\(\)(.*?)(?=don't\(\)|$)", "do()" + text, re.DOTALL)
-    )
+    return sum(part1(s) for s in RE2.findall("do()" + text))
 
 
 if __name__ == "__main__":
