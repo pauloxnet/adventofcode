@@ -24,8 +24,7 @@ def get_distinct_characters_index(datastream: str, distinctnumber: int) -> int:
         if len(set(datastream[i : i + distinctnumber])) == distinctnumber:
             distinct_characters_index = i + distinctnumber
             break
-        else:
-            continue
+        continue
     return distinct_characters_index
 
 
@@ -52,7 +51,7 @@ def part1(datastream: str) -> int:
     return get_distinct_characters_index(datastream, 4)
 
 
-def part2(datastream) -> int:
+def part2(datastream: str) -> int:
     """
     Part Two.
 

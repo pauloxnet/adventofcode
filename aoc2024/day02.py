@@ -7,7 +7,8 @@ from itertools import combinations, pairwise
 
 
 def is_safe(row: tuple) -> bool:
-    """Check if the row is safe.
+    """
+    Check if the row is safe.
 
     >>> is_safe((7, 6, 4, 2, 1))
     True
@@ -32,7 +33,8 @@ def is_safe(row: tuple) -> bool:
 
 
 def part1(values: tuple) -> int:
-    """Part One.
+    """
+    Part One.
 
     >>> values = ((7, 6, 4, 2, 1),
     ... (1, 2, 7, 8, 9),
@@ -47,7 +49,8 @@ def part1(values: tuple) -> int:
 
 
 def part2(values: tuple) -> int:
-    """Part Two.
+    """
+    Part Two.
 
     >>> values = ((7, 6, 4, 2, 1),
     ... (1, 2, 7, 8, 9),
@@ -71,7 +74,8 @@ def part2(values: tuple) -> int:
 
 
 def load_input(text: str) -> tuple:
-    """Load input text.
+    """
+    Load input text.
 
     >>> text = '''7 6 4 2 1
     ... 1 2 7 8 9

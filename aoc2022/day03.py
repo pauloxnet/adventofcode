@@ -48,7 +48,7 @@ def part2(rucksacks: list) -> int:
     return sum(
         POINTS[
             next(
-                iter(set(rucksacks[i]) & set(rucksacks[i + 1]) & set(rucksacks[i + 2]))
+                iter(set(rucksacks[i]) & set(rucksacks[i + 1]) & set(rucksacks[i + 2])),
             )
         ]
         for i in range(0, len(rucksacks), 3)

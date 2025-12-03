@@ -11,7 +11,8 @@ RE2 = re.compile(r"do\(\)(.*?)(?=don't\(\)|$)", re.DOTALL)
 
 
 def part1(text: str) -> int:
-    """Part One.
+    """
+    Part One.
 
     >>> tx = 'xmul(2,4)%&mul[3,7]!@^do_not_mul(5,5)+mul(32,64]then(mul(11,8)mul(8,5))'
     >>> part1(tx)
@@ -21,7 +22,8 @@ def part1(text: str) -> int:
 
 
 def part2(text: str) -> int:
-    """Part Two.
+    """
+    Part Two.
 
     >>> tx = "xmul(2,4)&mul[3,7]!^don't()_mul(5,5)+mul(32,64](mul(11,8)undo()?mul(8,5))"
     >>> part2(tx)

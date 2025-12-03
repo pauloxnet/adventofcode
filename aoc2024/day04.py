@@ -7,7 +7,8 @@ import re
 
 
 def get_diagonals(matrix: list) -> list:
-    """Get matrix diagonals.
+    """
+    Get matrix diagonals.
 
     >>> matrix = ['MMMSXXMASM',
     ... 'MSAMXMSMSA',
@@ -47,7 +48,8 @@ def get_diagonals(matrix: list) -> list:
 
 
 def get_columns(matrix: list) -> list:
-    """Get matrix columns.
+    """
+    Get matrix columns.
 
     >>> matrix = ['MMMSXXMASM',
     ... 'MSAMXMSMSA',
@@ -67,7 +69,8 @@ def get_columns(matrix: list) -> list:
 
 
 def part1(matrix: list) -> int:
-    """Part One.
+    """
+    Part One.
 
     >>> matrix = ['MMMSXXMASM',
     ... 'MSAMXMSMSA',
@@ -89,7 +92,8 @@ def part1(matrix: list) -> int:
 
 
 def part2(matrix: list) -> int:
-    """Part Two.
+    """
+    Part Two.
 
     >>> matrix = ['MMMSXXMASM',
     ... 'MSAMXMSMSA',
@@ -119,7 +123,8 @@ def part2(matrix: list) -> int:
 
 
 def load_input(text: str) -> list:
-    """Load input text.
+    """
+    Load input text.
 
     >>> text = '''MMMSXXMASM
     ... MSAMXMSMSA

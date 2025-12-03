@@ -7,7 +7,8 @@ from collections import Counter
 
 
 def part1(values: tuple) -> int:
-    """Part One.
+    """
+    Part One.
 
     >>> values = ((3, 4, 2, 1, 3, 3), (4, 3, 5, 3, 9, 3))
     >>> part1(values)
@@ -19,7 +20,8 @@ def part1(values: tuple) -> int:
 
 
 def part2(values: tuple) -> int:
-    """Part Two.
+    """
+    Part Two.
 
     >>> values = ((3, 4, 2, 1, 3, 3), (4, 3, 5, 3, 9, 3))
     >>> part2(values)
@@ -30,7 +32,8 @@ def part2(values: tuple) -> int:
 
 
 def load_input(text: str) -> tuple:
-    """Load input text.
+    """
+    Load input text.
 
     >>> text = '''3   4
     ... 4   3
