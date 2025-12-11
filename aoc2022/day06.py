@@ -19,13 +19,11 @@ def get_distinct_characters_index(datastream: str, distinctnumber: int) -> int:
     >>> get_distinct_characters_index(datastream, 14)
     19
     """
-    distinct_characters_index = -1
     for i in range(len(datastream)):
         if len(set(datastream[i : i + distinctnumber])) == distinctnumber:
-            distinct_characters_index = i + distinctnumber
-            break
+            return i + distinctnumber
         continue
-    return distinct_characters_index
+    return -1
 
 
 def part1(datastream: str) -> int:
